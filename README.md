@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,50:7c3aed,100:a855f7&height=220&section=header&text=Luis%20Hernández&fontSize=58&fontAlignY=38&desc=Frontend%20Engineer&descAlignY=58&descSize=21&animation=fadeIn&fontColor=ffffff" width="100%"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=3000&pause=800&color=7C3AED&center=true&vCenter=true&width=660&height=45&lines=Frontend+Engineer+%40+Ravan+Tech+%F0%9F%9A%80;Frontend+Engineer+open+to+new+opportunities+%F0%9F%92%BC;Building+with+React%2C+Next.js+%26+Node.js+%E2%9A%A1)](https://git.io/typing-svg)
+<a href="https://git.io/typing-svg" target="_blank"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=3000&pause=800&color=7C3AED&center=true&vCenter=true&width=660&height=45&lines=Frontend+Engineer+%40+Ravan+Tech+%F0%9F%9A%80;Frontend+Engineer+open+to+new+opportunities+%F0%9F%92%BC;Building+with+React%2C+Next.js+%26+Node.js+%E2%9A%A1" alt="Typing SVG"/></a>
 
 <br/>
 
@@ -10,9 +10,9 @@
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-luishernandez.digital-7c3aed?style=for-the-badge&logo=googlechrome&logoColor=white)](https://www.luishernandez.digital)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-luishernandez19-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luishernandez19)
-[![Email](https://img.shields.io/badge/Email-luishdz.dev%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:luishdz.dev@gmail.com)
+<a href="https://www.luishernandez.digital" target="_blank"><img src="https://img.shields.io/badge/Portfolio-luishernandez.digital-7c3aed?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/></a>
+<a href="https://www.linkedin.com/in/luishernandez19" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-luishernandez19-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="mailto:luishdz.dev@gmail.com"><img src="https://img.shields.io/badge/Email-luishdz.dev%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 
 </div>
 
@@ -135,9 +135,9 @@ Frontend Engineer currently working at **Ravan Tech**, passionate about building
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/🌐_luishernandez.digital-7c3aed?style=for-the-badge)](https://www.luishernandez.digital)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luishernandez19)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:luishdz.dev@gmail.com)
+<a href="https://www.luishernandez.digital" target="_blank"><img src="https://img.shields.io/badge/🌐_luishernandez.digital-7c3aed?style=for-the-badge" alt="Portfolio"/></a>
+<a href="https://www.linkedin.com/in/luishernandez19" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="mailto:luishdz.dev@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
 
 </div>
 
