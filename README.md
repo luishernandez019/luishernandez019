@@ -69,27 +69,29 @@ Frontend Engineer currently working at **Ravan Tech**, passionate about building
       <h3 align="center">BeatBond 🎵</h3>
       <div align="center">
         <a href="https://beatbond.vercel.app" target="_blank">
+          <img src="./assets/beatbond-preview.webp" alt="BeatBond preview" width="100%"/>
+        </a>
+        <br/><br/>
+        <a href="https://beatbond.vercel.app" target="_blank">
           <img src="https://img.shields.io/badge/Live_Demo-6366f1?style=for-the-badge&logo=vercel&logoColor=white"/>
         </a>
       </div>
       <br/>
-      <p>
-        <!-- Agrega aquí una descripción de BeatBond -->
-        Music platform that connects artists and listeners. Built with a modern fullstack architecture focused on performance and seamless user experience.
-      </p>
+      <p>Tinder-style web app for discovering music powered by the Spotify API. Swipe, match and explore new songs based on your taste.</p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">Datadex 📊</h3>
+      <h3 align="center">Datadex 🔴</h3>
       <div align="center">
+        <a href="https://datadex-api.vercel.app" target="_blank">
+          <img src="./assets/datadex-preview.webp" alt="Datadex preview" width="100%"/>
+        </a>
+        <br/><br/>
         <a href="https://datadex-api.vercel.app" target="_blank">
           <img src="https://img.shields.io/badge/Live_Demo-7c3aed?style=for-the-badge&logo=vercel&logoColor=white"/>
         </a>
       </div>
       <br/>
-      <p>
-        <!-- Agrega aquí una descripción de Datadex -->
-        API and data exploration platform with interactive dashboards and clean data visualization. Built for fast, intuitive data management.
-      </p>
+      <p>Interactive Pokédex built with Next.js, React and TypeScript. Explore 1000+ Pokémon with generation filters, autocomplete search, stats, evolution chains, type effectiveness and side-by-side comparison. Available in English and Spanish.</p>
     </td>
   </tr>
 </table>
